@@ -31,7 +31,7 @@ public class WavPlayer {
     
     public static void main(String[] args) {
         WavPlayer sik = new WavPlayer();
-        sik.mainMusik("VirtualParadisewav");
+        sik.mainMusik("VirtualParadise.wav");
     }
     
 }
